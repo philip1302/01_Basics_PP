@@ -1,2 +1,3 @@
-let name="Paul";
-console.log("Hallo "+ name);
+//Variablen 01
+
+// Deklaration 
